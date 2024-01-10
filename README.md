@@ -1,5 +1,7 @@
 # angular-ngrx-state-management
 
+> NgRx is a framework for building reactive applications in Angular.
+
 > RxJS (Reactive Extensions for JavaScript) is a library for reactive programming using observables that makes it easier to compose asynchronous or callback-based code.
 
 ##### Step By Step (CRUD EXAMPLE)
